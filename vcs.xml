@@ -3,15 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/songyangco/tensorflow-pilot" />
+          <option name="url" value="https://github.com/songyangco/EyeAI" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/songyangco/EyeAI" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ysongpray@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/songyangco/tensorflow-pilot" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Song Yang\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
   </component>
 </application>
