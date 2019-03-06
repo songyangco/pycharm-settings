@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/songyangco/personal" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/songyangco/deep-learning-practice" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\_ERIC\PycharmProjects" />
